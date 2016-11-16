@@ -24,9 +24,7 @@
 
 <p><b>MochaJS</b> e <b>Chai.js</b> são bibliotecas usadas para melhorar o processo de desenvolvimento das aplicações com base em <a href="http://www.agiledata.org/essays/tdd.html">Test-driven Development (TDD)</a> e <a href="https://dannorth.net/introducing-bdd/">Behavior-driven Development (BDD)</a>, fornecendo a infraestrutura para organizar e executar os testes unitários de forma automática.</p>
 
-<p><b>GruntJS</b> é ...</p>
-
-<p><b>GulpJS</b> é ...</p>
+<p><b>GruntJS</b> e <p><b>GulpJS</b> são usados para automatizar tarefas. Por exemplo, é possível compilar CSS/Sass, otimizar imagens, criar e minificar ou transplantar um pacote. A principal diferença entre GulpJS e GruntJS está relacionada ao fato de que o GruntJS é baseado na configuração separada de tarefas independentes, onde cada tarefa abre, resolve e fecha o arquivo, enquanto o GulpJS é baseado em streams do NodeJS, o que permite reabrir o mesmo arquivo.</p>
 
 <p><b>Webpack</b> é ...</p>
 
@@ -39,6 +37,8 @@
 <p><b>Hadoop</b> é ...</p>
 
 <p><b>Amazon WebService</b> é ...</p>
+
+<p><b>npm</b> e <b>bower</b> são gerenciadores de pacotes. Eles fazem apenas o download das dependências e chamam o Webpack / Gulp / Grunt. Uma das principais diferenças do npm e bower é que o npm busca as dependências recursivamente, enquanto que o bower necessita da configuração manual para inclusão das sub-dependências.</p>
 
 # Banco de Dados
 <p><b>Apache Cassandra</b> é um <a href="https://academy.datastax.com/resources/brief-introduction-apache-cassandra">banco de dados não relacional</a> open-source que fornece disponibilidade contínua, desempenho escalar linear, simplicidade operacional e fácil distribuição operacional sobre diversos centros de dados.</p>
