@@ -24,7 +24,7 @@
 
 <p><b>MochaJS</b> e <b>Chai.js</b> são bibliotecas usadas para melhorar o processo de desenvolvimento das aplicações com base em <a href="http://www.agiledata.org/essays/tdd.html">Test-driven Development (TDD)</a> e <a href="https://dannorth.net/introducing-bdd/">Behavior-driven Development (BDD)</a>, fornecendo a infraestrutura para organizar e executar os testes unitários de forma automática.</p>
 
-<p><b>GruntJS</b> e <p><b>GulpJS</b> são usados para automatizar tarefas. Por exemplo, é possível compilar CSS/Sass, otimizar imagens, criar e minificar ou transplantar um pacote. A principal diferença entre GulpJS e GruntJS está relacionada ao fato de que o GruntJS é baseado na configuração separada de tarefas independentes, onde cada tarefa abre, resolve e fecha o arquivo, enquanto o GulpJS é baseado em streams do NodeJS, o que permite reabrir o mesmo arquivo.</p>
+<p><b>GruntJS</b> e <b>GulpJS</b> são usados para automatizar tarefas. Por exemplo, é possível compilar CSS/Sass, otimizar imagens, criar e minificar ou transplantar um pacote. A principal diferença entre GulpJS e GruntJS está relacionada ao fato de que o GruntJS é baseado na configuração separada de tarefas independentes, onde cada tarefa abre, resolve e fecha o arquivo, enquanto o GulpJS é baseado em streams do NodeJS, o que permite reabrir o mesmo arquivo.</p>
 
 <p><b>Webpack</b> é ...</p>
 
