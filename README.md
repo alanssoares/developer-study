@@ -5,7 +5,7 @@
 
 <p><b>Swift</b> é uma linguagem de programação compilada para iOS, macOS, watchOS, tvOS, e Linux. Ela foi desenvolvida para trabalhar com os frameworks <a href="https://en.wikipedia.org/wiki/Cocoa_(API)">Cocoa</a> e <a href="https://en.wikipedia.org/wiki/Cocoa_Touch">Cocoa Touch</a>. É uma linguagem <a href="http://www.infoworld.com/article/2920333/mobile-development/swift-vs-objective-c-10-reasons-the-future-favors-swift.html">alternativa</a> ao <a href="http://blog.teamtreehouse.com/the-beginners-guide-to-objective-c-language-and-variables">Objective-C</a>.</p>
 
-<p><b>Go</b> é ...</p>
+<p><b>Go</b> é uma linguagem semelhante ao C, que foi desenvolvida com o intuito de ser uma linguagem com programação simples,  compilação eficiente e execução rápida. </p>
 
 <p><b>TypeScript</b> é ...</p>
 
