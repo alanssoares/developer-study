@@ -26,7 +26,7 @@
 
 <p><b>GruntJS</b> e <b>GulpJS</b> são usados para automatizar tarefas. Por exemplo, é possível compilar CSS/Sass, otimizar imagens, criar e minificar ou transplantar um pacote. A principal diferença entre GulpJS e GruntJS está relacionada ao fato de que o GruntJS é baseado na configuração separada de tarefas independentes, onde cada tarefa abre, resolve e fecha o arquivo, enquanto o GulpJS é baseado em streams do NodeJS, o que permite reabrir o mesmo arquivo.</p>
 
-<p><b>Webpack</b> é um empacotador de módulos. Ele fornece funcionalidades avançadas como recarregamento de pacotes sem atualização, carregamento sob demanda, divisão de pacotes, entre outos. O Webpack resolve boa parte das deficiências do Gulp e Grunt, porém pode ser complementado com os mesmos para melhorar as tarefas.</p>
+<p><b>Webpack</b> é um empacotador de módulos. Ele fornece funcionalidades avançadas como recarregamento de pacotes sem atualização, carregamento sob demanda, divisão de pacotes, entre outos. O <a href="https://webpack.github.io/docs/what-is-webpack.html">Webpack</a> resolve boa parte das deficiências do Gulp e Grunt, porém pode ser complementado com os mesmos para melhorar as tarefas.</p>
 
 <p><b>RequireJS</b> é utilizada para carregar os módulos de uma aplicação utilizando <a href="https://github.com/amdjs/amdjs-api/wiki/AMD">Asynchronous Module Definition (AMD)</a>. </p>
 
