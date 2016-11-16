@@ -7,7 +7,7 @@
 
 <p><b>Go</b> é uma linguagem semelhante ao C, que foi desenvolvida com o intuito de ser uma linguagem com programação simples,  compilação eficiente e execução rápida. <a href="http://imasters.com.br/linguagens/programacao-com-linguagem-google-go/?trace=1519021197">Go</a> não possui muitas construções, ao contrário das linguagens como Perl, Ruby ou Scala, que usam uma variedade de construções sintáticas ou métodos para um único e mesmo propósito.</p>
 
-<p><b>TypeScript</b> é ...</p>
+<p><b>TypeScript</b> é um projeto open-source que adiciona novas features como <a href="https://www.typescriptlang.org/docs/handbook/interfaces.html">Interfaces</a> e <a href="https://www.typescriptlang.org/docs/handbook/generics.html">Generics</a> ao JavaScript. A maioria dos melhores frameworks JavaScript como <a href="https://angular.io/">Angular 2</a>, <a href="http://aurelia.io/">Aurelia</a>, <a href="http://dojotoolkit.org/">Dojo</a>, <a href="http://emberjs.com/">Ember</a>, <a href="http://ionicframework.com/">Ionic</a>, <a href="https://www.nativescript.org/">NativeScript</a> são escritos em TypeScript.</p>
 
 # Frameworks JavaScript
 <p><b>ExpressJS</b> é um framework usado para desenvolver o Back-End de uma aplicação em conjunto com o <b>NodeJS</b>, uma vez que o Node não tem intenção de construir sites web. Assim o <a href="https://www.upwork.com/hiring/development/express-js-a-server-side-javascript-framework/">Express</a> fornece as funções necessárias para construir uma aplicação web.<p>
