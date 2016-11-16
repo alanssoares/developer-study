@@ -1,5 +1,5 @@
 # Linguagens
-<p><b>Scala</b> é uma linguagem funcional escalar orientada à objetos que roda sobre a Java Virtual Machine (JVM). Conceitualmente cada valor é um objeto e cada operação é uma chamada de método. É possível utilizar <a href="https://www.toptal.com/scala/why-should-i-learn-scala">Scala e Java</a> no mesmo projeto.</p>
+<p><b>Scala</b> é uma <a href="http://blog.jenkster.com/2015/12/what-is-functional-programming.html">linguagem funcional</a> escalar orientada à objetos que roda sobre a Java Virtual Machine (JVM). Conceitualmente cada valor é um objeto e cada operação é uma chamada de método. É possível utilizar <a href="https://www.toptal.com/scala/why-should-i-learn-scala">Scala e Java</a> no mesmo projeto.</p>
 
 <p><b>Clojure</b> é ...</p>
 
