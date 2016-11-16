@@ -1,7 +1,7 @@
 # Linguagens
 <p><b>Scala</b> é uma <a href="http://blog.jenkster.com/2015/12/what-is-functional-programming.html">linguagem funcional</a> escalar orientada à objetos que roda sobre a Java Virtual Machine (JVM). Conceitualmente cada valor é um objeto e cada operação é uma chamada de método. É possível utilizar <a href="https://www.toptal.com/scala/why-should-i-learn-scala">Scala e Java</a> no mesmo projeto.</p>
 
-<p><b>Clojure</b> é ...</p>
+<p><b>Clojure</b> é uma linguagem funcional de programação dinâmica. Apesar de ser compilada, possuindo um rico conjunto de estruturas de dados imutáveis e persistentes, cada feature suportada por <a href="http://clojure.org/">Clojure</a> é suportada em tempo de execução, possuindo ainda uma infraestrutura robusta para programação multithread.</p>
 
 <p><b>Swift</b> é ...</p>
 
@@ -22,7 +22,7 @@
 
 <p><b>ReactJS</b> é ...</p>
 
-<p><b>MochaJS</b> e <b>Chai.js</b> são são bibliotecas usadas para melhorar o processo de desenvolvimento das aplicações com base em <a href="http://www.agiledata.org/essays/tdd.html">Test-driven Development (TDD)</a> e <a href="https://dannorth.net/introducing-bdd/">Behavior-driven Development (BDD)</a>, fornecendo a infraestrutura para organizar e executar os testes unitários de forma automática.</p>
+<p><b>MochaJS</b> e <b>Chai.js</b> são bibliotecas usadas para melhorar o processo de desenvolvimento das aplicações com base em <a href="http://www.agiledata.org/essays/tdd.html">Test-driven Development (TDD)</a> e <a href="https://dannorth.net/introducing-bdd/">Behavior-driven Development (BDD)</a>, fornecendo a infraestrutura para organizar e executar os testes unitários de forma automática.</p>
 
 <p><b>GruntJS </b> é ...</p>
 
