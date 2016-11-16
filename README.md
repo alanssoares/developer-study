@@ -24,7 +24,11 @@
 
 <p><b>MochaJS</b> e <b>Chai.js</b> são bibliotecas usadas para melhorar o processo de desenvolvimento das aplicações com base em <a href="http://www.agiledata.org/essays/tdd.html">Test-driven Development (TDD)</a> e <a href="https://dannorth.net/introducing-bdd/">Behavior-driven Development (BDD)</a>, fornecendo a infraestrutura para organizar e executar os testes unitários de forma automática.</p>
 
-<p><b>GruntJS </b> é ...</p>
+<p><b>GruntJS</b> é ...</p>
+
+<p><b>GulpJS</b> é ...</p>
+
+<p><b>Webpack</b> é ...</p>
 
 <p><b>RequireJS</b> é utilizada para carregar os módulos de uma aplicação utilizando <a href="https://github.com/amdjs/amdjs-api/wiki/AMD">Asynchronous Module Definition (AMD)</a>. </p>
 
