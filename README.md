@@ -43,4 +43,4 @@
 # Banco de Dados
 <p><b>Apache Cassandra</b> é um <a href="https://academy.datastax.com/resources/brief-introduction-apache-cassandra">banco de dados não relacional</a> open-source que fornece disponibilidade contínua, desempenho escalar linear, simplicidade operacional e fácil distribuição operacional sobre diversos centros de dados.</p>
 
-<p><b>MongoDB</b> é ...</p>
+<p><b>MongoDB</b> é um banco de dados não-relacional que armazena as informações em formato <a href="https://www.mongodb.com/json-and-bson">BSON (Binary JSON)</a>. BSON é a linguagtem <a href="http://www.json.org/">JSON</a> nativa (JavaScript Object Notation), usada para obter informações armazenadas em BSON no back-end. MongoDB possui um excelente desempenho para operações de escrita e é recomendado quando se precisa de um esquema flexível (estrutura de dados). Apesar dos aspectos positivos citados, o <a href="https://www.percona.com/blog/2016/11/14/mongodb-and-mysql-mongodb-through-mysql-lens/">MongoDB não é recomendado quando os dados são altamente relacionais ou estruturados</a>. Além disso, o MongoDB não suporta transações, porém existe atomicidade em nível de documento.</p>
