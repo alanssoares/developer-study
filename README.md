@@ -14,7 +14,7 @@
 
 <p><b>MeteorJS</b> é uma <a href="http://joshowens.me/what-is-meteor-js/">plataforma de desenvolvimento</a> com uma coleção de bibliotecas e pacotes que são agrupados de maneira que facilitam o desenvolvimento web.</p>
 
-<p><b>AngularJS</b> é ...</p>
+<p><b>AngularJS</b> é um framework MVC desenvolvido em JavaScript. O angular roda totalmente no lado do cliente, permitindo o binding dos dados entre os controllers e as views, além da injeção de dependências, reduzindo o código a ser desenvolvido. Existem muitas <a href="https://www.sitepoint.com/10-reasons-use-angularjs/">razões para se utilizar o Angular</a>. Muita coisa mudou com a reformulação e criação do <a href="https://angular.io/docs/js/latest/quickstart.html">Angular 2</a> </p>
 
 <p><b>NodeJS</b> é ...</p>
 
