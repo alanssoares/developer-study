@@ -9,6 +9,8 @@
 
 <p><b>TypeScript</b> é um projeto open-source que adiciona novas features como <a href="https://www.typescriptlang.org/docs/handbook/interfaces.html">Interfaces</a> e <a href="https://www.typescriptlang.org/docs/handbook/generics.html">Generics</a> ao <a href="https://www.typescriptlang.org/">JavaScript</a>, além de permitir a tipagem dos campos, sendo esta uma das principais vantagens da utilização do <a href="http://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript">TypeScript<a/>. A maioria dos melhores frameworks JavaScript como <a href="https://angular.io/">Angular 2</a>, <a href="http://aurelia.io/">Aurelia</a>, <a href="http://dojotoolkit.org/">Dojo</a>, <a href="http://emberjs.com/">Ember</a>, <a href="http://ionicframework.com/">Ionic</a>, <a href="https://www.nativescript.org/">NativeScript</a> são escritos em TypeScript.</p>
 
+<p><b>Babel</b> é ...</p>
+
 # Frameworks JavaScript
 <p><b>ExpressJS</b> é um framework usado para desenvolver o back-end de uma aplicação em conjunto com o <b>NodeJS</b>, uma vez que o Node não tem intenção de construir sites web. Assim o <a href="https://www.upwork.com/hiring/development/express-js-a-server-side-javascript-framework/">Express</a> fornece as funções necessárias para construir uma aplicação web.<p>
 
