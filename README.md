@@ -18,7 +18,7 @@
 
 <p><b>AngularJS</b> é um framework MVC desenvolvido em JavaScript. O angular roda totalmente no lado do cliente, permitindo o binding dos dados entre os controllers e as views, além da injeção de dependências, reduzindo o código a ser desenvolvido. Existem muitas <a href="https://www.sitepoint.com/10-reasons-use-angularjs/">razões para se utilizar o Angular</a>. Muita coisa mudou com a reformulação e criação do <a href="https://angular.io/docs/js/latest/quickstart.html">Angular2</a>, que tem como base desenvolver aplicações utilizando componentes. É possível desenvolver com o Angular2 utilizando tanto o Babel, quanto o <a href="http://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript">TypeScript<a/>.</p>
 
-<p><b>NodeJS</b> é ...</p>
+<p><b>NodeJS</b> é uma plataforma open-source e server-side, construída sobre a <a href="http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works/">Engine V8 do Google Chrome</a> e que roda em uma única thread (Single-Thread). O <a href="https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm">NodeJS</a> utiliza um <a href="https://www.quora.com/What-do-event-driven-non-blocking-I-O-and-event-loop-mean">modelo dirigido a eventos e não bloqueante de entrada e saída</a> que permite a construção de aplicações escaláveis em dispositivos distribuídos. Todas as bibliotecas do NodeJS são assíncronas, isto é, não bloqueantes.</p>
 
 <p><b>EmbderJS</b> é ...</p>
 
