@@ -40,6 +40,10 @@
 
 <p><b>Amazon WebService</b> é ...</p>
 
+<p><b>Karma</b> é essencialmente uma ferramenta que gera um servidor web que executa o código-fonte contra o código de teste para cada um dos navegadores conectados. Os resultados de cada teste em cada navegador são examinados e exibidos através da linha de comando para o desenvolvedor de tal forma que eles podem ver quais navegadores e testes passaram ou falharam. O Karma pode ser integrado ao Jenkins, Travis ou Semaphore, para automatização de tarefas, e seus testes podem ser descritos utilizando tanto o Jasmine, quanto Mocha ou QUnit.</p>
+
+<p><b>Jasmine</b> é framework de desenvolvimento dirigido a comportamento para teste de código JavaScript. Uma das principais características do <a href="https://jasmine.github.io/2.4/introduction.html">Jasmine</a> está relacionada a independência com relação a outros frameworks JavaScript. Ele fornece uma sintaxe clara e objetiva para criação dos testes e é bem como ser utilizado em conjunto com o Karma.</p>
+
 <p><b>npm</b> e <b>bower</b> são gerenciadores de pacotes. Eles fazem apenas o download das dependências e chamam o Webpack / Gulp / Grunt. Uma das principais diferenças do npm e bower é que o npm busca as dependências recursivamente, enquanto que o bower necessita da configuração manual para inclusão das sub-dependências.</p>
 
 # Banco de Dados
